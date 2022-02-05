@@ -4,22 +4,230 @@ title: Calendar
 uid: b40df495-c6f4-3c85-b058-9a7f33a6ef51
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Overview | &nbsp; |
-| {{< td-colspan 3 >}}**Theme A: Traditional Approaches to Using Scientific and Technical Information in Natural Resource Management and Environmental Policy-Making**{{< /td-colspan >}} |||
-| 2 | The Role of Science in Society  {{< br >}}  {{< br >}}_Guest Participants_  {{< br >}}  {{< br >}}Dr. Carl Shapiro, Science Impact Program Coordinator, U.S. Geological Survey  {{< br >}}Dr. Stanley Ponce, Senior Liaison for Interagency Programs and Science Partnerships, U.S. Geological Survey | &nbsp; |
-| 3 | The Evolution of Science in Societal Decision-Making - An Historical Perspective  {{< br >}}  {{< br >}}_Guest Lecturer_  {{< br >}}  {{< br >}}Dr. David Laws, Environmental Policy Group, MIT | &nbsp; |
-| 4 | The Role of Science in Environmental Policy-Making | &nbsp; |
-| {{< td-colspan 3 >}}**Theme B: Collaborative Approaches for Using Science in Societal Decision-Making**{{< /td-colspan >}} |||
-| 5 | Introduction to Collaborative Processes for Science-Intensive Resource and Environmental Policy Decisions  {{< br >}}  {{< br >}}_Guest Participant  {{< br >}}_  {{< br >}}Dr. Stephen Light, Co-editor, "Barriers and Bridges to the Renewal of Ecosystems and Institutions" | &nbsp; |
-| 6 | Collaborative Processes for Science-Intensive Resource and Environmental Policy Decisions (cont.) | &nbsp; |
-| 7 | Collaborative Approaches - Joint Fact Finding  {{< br >}}  {{< br >}}_Guest Participant  {{< br >}}  {{< br >}}_Patrick Field, Managing Director, Consensus Building Institute | &nbsp; |
-| 8 | Collaborative Learning and the Role of the Citizen | &nbsp; |
-| 9 | The Role of the Citizen - Local and Indigenous Knowledge | &nbsp; |
-| 10 | Collaborative Approaches to Adaptive Management, Adaptive Governance, and Ecosystem Based Management | &nbsp; |
-| {{< td-colspan 3 >}}**Theme C: Challenges and Barriers to the New Emerging Role of Science in Contemporary Society**{{< /td-colspan >}} |||
-| 11 | Challenges to New Role of Science  {{< br >}}  {{< br >}}_Guest Participant  {{< br >}}  {{< br >}}_Dr. Jeffrey Lovich, Acting Director, USGS Southwest Biological Science Center | &nbsp; |
-| 12 | Challenges to New Role of Science (cont.)  {{< br >}}  {{< br >}}Examination of Changing Culture within USGS and Changing Role of USGS with Context of a Changing Society as a Case Study | &nbsp; |
-| 13 | Preliminary Student Presentations | &nbsp; |
-| 14 | Last Day of Class | Final student presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Theme A: Traditional Approaches to Using Scientific and Technical Information in Natural Resource Management and Environmental Policy-Making**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Role of Science in Society  
+  
+_Guest Participants_  
+  
+Dr. Carl Shapiro, Science Impact Program Coordinator, U.S. Geological Survey  
+Dr. Stanley Ponce, Senior Liaison for Interagency Programs and Science Partnerships, U.S. Geological Survey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Evolution of Science in Societal Decision-Making - An Historical Perspective  
+  
+_Guest Lecturer_  
+  
+Dr. David Laws, Environmental Policy Group, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Role of Science in Environmental Policy-Making
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Theme B: Collaborative Approaches for Using Science in Societal Decision-Making**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Collaborative Processes for Science-Intensive Resource and Environmental Policy Decisions  
+  
+_Guest Participant  
+_  
+Dr. Stephen Light, Co-editor, "Barriers and Bridges to the Renewal of Ecosystems and Institutions"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Collaborative Processes for Science-Intensive Resource and Environmental Policy Decisions (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Collaborative Approaches - Joint Fact Finding  
+  
+_Guest Participant  
+  
+_Patrick Field, Managing Director, Consensus Building Institute
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Collaborative Learning and the Role of the Citizen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Role of the Citizen - Local and Indigenous Knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Collaborative Approaches to Adaptive Management, Adaptive Governance, and Ecosystem Based Management
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Theme C: Challenges and Barriers to the New Emerging Role of Science in Contemporary Society**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Challenges to New Role of Science  
+  
+_Guest Participant  
+  
+_Dr. Jeffrey Lovich, Acting Director, USGS Southwest Biological Science Center
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Challenges to New Role of Science (cont.)  
+  
+Examination of Changing Culture within USGS and Changing Role of USGS with Context of a Changing Society as a Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Last Day of Class
+{{< tdclose >}}
+{{< tdopen >}}
+Final student presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
